@@ -55,7 +55,7 @@ sudo apt update && sudo apt upgrade -y
 
 
 # Install My Packages
-sudo apt install rar unrar zip unzip snap python-pip3 smplayer pitivi net-tools whois docker docker-compose google-chrome-stable gnome-tweak-tool vokoscreen -y
+sudo apt install rar unrar zip unzip snap git python-pip3 smplayer pitivi net-tools whois docker docker-compose google-chrome-stable gnome-tweak-tool vokoscreen -y
 
 
 # Install spotify and slack
